@@ -11,7 +11,7 @@
 const char* ssid = "GNXS-549580";
 const char* password = "password1172";
 
-const char* awsEndpoint = "a1bhyjsrk0nqzi-ats.iot.ap-south-1.amazonaws.com";
+const char* awsEndpoint = "a1bhyjsryutyunqzi-ats.iot.ap-south-1.amazonaws.com";
 
 // Update the two certificate strings below. Paste in the text of your AWS 
 // device certificate and private key. Add a quote character at the start
