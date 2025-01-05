@@ -2,14 +2,14 @@
  *  
  * Simplest possible example (that I could come up with) of using an ESP32 with AWS IoT.
  *  
- * Author: Anthony Elder 
- * License: Apache License v2
+ * Author: Sony Sunny 
+ * License: ******
  */
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h> // install with Library Manager, I used v2.6.0
 
 const char* ssid = "GNXS-549580";
-const char* password = "paord1172";
+const char* password = "*****";
 
 const char* awsEndpoint = "a1bhyjsryutyunqzi-ats.iot.ap-south-1.amazonaws.com";
 
